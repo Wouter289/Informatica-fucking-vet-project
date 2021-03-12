@@ -14,10 +14,7 @@
 					<label for="code">code : </label>
 					<input type="text" name="code" > 
 					<input type="submit" name="submit" value="(pijltje)">
-					
 				</div>
-				
-				
 			</form>
 			<div>
 				<form action="/Project/docent.php" method ="post">
